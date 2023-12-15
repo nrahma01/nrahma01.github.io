@@ -1,0 +1,98 @@
+body {
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.site-banner {
+background-color: pink;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 8px;
+}
+.image {
+    max-width: 100%; /* This ensures the image won't exceed its container's width */
+    height: auto; /* Maintain the image's aspect ratio */
+    display: block; /* Remove any extra space below the image */
+    margin: auto; /* Center the image within its container */
+  }
+.photo{
+    max-width: 100%; /* This ensures the image won't exceed its container's width */
+    height: auto; /* Maintain the image's aspect ratio */
+    display: block; /* Remove any extra space below the image */
+    margin: auto; /* Center the image within its container */
+
+}
+
+}
+body {
+    background-color: #f6e8e8; 
+  }
+  
+
+  
+.logo {
+    width: 188px;
+    text-align: center;
+}
+.article {
+    max-width: 1200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.story-header {
+    @font-face {
+        font-family: 'Postoni';
+        src: url('PostoniWide-Bold.woff2') format('woff2');
+        
+}font-family: 'Postoni'; serif
+size: 46px;
+margin-bottom:0px;
+font-weight:lighter;
+}
+.story-body {
+    font-family:  font-family: 'Postoni';
+    src: url('PostoniWide-Bold.woff2') format('woff2'); 
+    font-size: 20px;
+    line-height: 32px; 
+max-width: 700px;
+}
+
+.photo {
+    width: 100%;
+    height: auto;
+}
+
+.photo-caption {
+color: #666666;
+size: 14px;
+margin:0px;
+line-height: 18px;
+font-family: 'Franklin Light';
+src: url('ITC_Franklin-Light.woff2') format('woff2');
+}
+
+
+.story-footer {
+   h3{
+    font-family: 'Franklin Bold';
+    src: url('ITC_Franklin-Bold.woff2') format('woff2');
+    font size: 16px;
+   } 
+h2 {
+    font-family: 'Postoni';
+    src: url('PostoniWide-Bold.woff2') format('woff2')
+    size: 28px;
+}
+}
+.footer-info {
+ color: #e7bcbc;
+size: 14px;
+margin:0px;
+line-height: 18px;
+font-family: 'Franklin Light';
+src: url('ITC_Franklin-Light.woff2') format('woff2');
+
+}
